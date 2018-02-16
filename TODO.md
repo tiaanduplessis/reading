@@ -8,3 +8,4 @@ Books I want to read:
 - [The Nature of Code](http://natureofcode.com/)
 - [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
 - [Exploring ES6](http://exploringjs.com/es6.html)
+- [From Python to Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/#introduction)
