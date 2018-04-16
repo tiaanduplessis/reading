@@ -1,0 +1,17 @@
+{
+  "name": "@tiaanduplessis/eslint-config",
+  "version": "1.0.0",
+  "description": "Custom ESLint configuration",
+  "main": "index.js",
+  "repository": "https://github.com/tiaanduplessis/eslint-config.git",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --write ./**/*.js"
+  },
+  "devDependencies": {
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-promise": "^3.7.0",
+    "prettier": "^1.12.0"
+  }
+}
