@@ -1,0 +1,9 @@
+{
+  "name": "reading",
+  "devDependencies": {
+    "prettier": "^1.12.1"
+  },
+  "scripts": {
+      "format": "prettier --write './**/*.md'"
+  }
+}
