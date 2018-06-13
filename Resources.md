@@ -11,4 +11,3 @@
 * [Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x)
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 * [Project Based Learning](https://github.com/tuvtran/project-based-learning)
-
