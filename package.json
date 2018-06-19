@@ -4,6 +4,6 @@
     "prettier": "^1.12.1"
   },
   "scripts": {
-      "format": "prettier --write './**/*.md'"
+      "f": "prettier --write './**/*.md'"
   }
 }
