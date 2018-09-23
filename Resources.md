@@ -12,4 +12,3 @@
 * [Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x)
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 * [Project Based Learning](https://github.com/tuvtran/project-based-learning)
-* [Getting eslint right in React Native](https://medium.com/the-react-native-log/getting-eslint-right-in-react-native-bd27524cc77b)
