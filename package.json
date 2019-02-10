@@ -1,7 +1,7 @@
 {
   "name": "reading",
   "devDependencies": {
-    "prettier": "^1.12.1"
+    "prettier": "^1.16.4"
   },
   "scripts": {
       "a": "yarn f && git add . && git commit -m 'update'",
