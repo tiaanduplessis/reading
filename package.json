@@ -1,10 +1,20 @@
 {
   "name": "reading",
   "devDependencies": {
+    "husky": ">=4",
+    "lint-staged": ">=10",
     "prettier": "1.18.2"
   },
   "scripts": {
-      "a": "yarn f && git add . && git commit -m 'update'",
-      "f": "prettier --write './**/*.md'"
+    "a": "yarn f && git add . && git commit -m 'update'",
+    "f": "prettier --write './**/*.md'"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,css,md}": "prettier --write"
   }
 }
