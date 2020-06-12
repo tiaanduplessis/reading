@@ -6,7 +6,7 @@
     "prettier": "1.18.2"
   },
   "scripts": {
-    "a": "yarn f && git add . && git commit -m 'update'",
+    "a": "git add . && git commit -m 'update'",
     "f": "prettier --write './**/*.md'"
   },
   "husky": {
